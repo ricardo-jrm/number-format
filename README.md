@@ -21,13 +21,25 @@
 
 <br />
 
+### <b>Install</b>
+
+```ts
+npm install @ricardo-jrm/number-format
+
+yarn add @ricardo-jrm/number-format
+```
+
+<br />
+
 ### <b>Usage</b>
 
 ```ts
+import { numberFormat } from '@ricardo-jrm/number-format'
+
+numberFormat(1337)
+-> "1,337"
 
 ```
-
-Format numbers
 
 <br />
 
