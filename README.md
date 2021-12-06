@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟪 `@ricardo-jrm/number-format`
+# 🌙 `@ricardo-jrm/number-format`
 
 <b>Format numbers</b>
 
