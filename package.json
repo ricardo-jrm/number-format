@@ -1,5 +1,5 @@
 {
-  "name": "@ricardo-jrm/number-format",
+  "name": "@ricardojrmcom/number-format",
   "description": "Format numbers",
   "version": "0.0.6-development",
   "main": "dist/index.js",
@@ -7,15 +7,15 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricardo-jrm/number-format.git"
+    "url": "https://github.com/ricardojrmcom/number-format.git"
   },
   "author": {
     "name": "Ricardo Mota",
-    "url": "https://github.com/ricardo-jrm"
+    "url": "https://github.com/ricardojrmcom"
   },
-  "homepage": "https://github.com/ricardo-jrm/number-format#readme",
+  "homepage": "https://github.com/ricardojrmcom/number-format#readme",
   "bugs": {
-    "url": "https://github.com/ricardo-jrm/number-format/issues"
+    "url": "https://github.com/ricardojrmcom/number-format/issues"
   },
   "license": "MIT",
   "keywords": [
